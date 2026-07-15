@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Sophia Kalapala 👋<br><br>🎓 B.Tech Final Year Student | Computer Science & Engineering (CSE)<br>💻 Aspiring Software Engineer | Java Developer<br>🚀 Passionate about building efficient, scalable and user-centric software solutions<br>📚 Interested in Java, Data Structures & Algorithms, SQL and Problem Solving<br>🌱 Currently enhancing my skills in Java, Git & GitHub and Data Structures & Algorithms<br>🎯 Seeking opportunities to contribute, learn and grow as a Software Engineer.<br>
+Hi there, I'm Sophia Prasamsa Kalapala 👋<br><br>🎓 B.Tech Final Year Student | Computer Science & Engineering (CSE)<br>💻 Aspiring Software Engineer | Java Developer<br>🚀 Passionate about building efficient, scalable and user-centric software solutions<br>📚 Interested in Java, Data Structures & Algorithms, SQL and Problem Solving<br>🌱 Currently enhancing my skills in Java, Git & GitHub and Data Structures & Algorithms<br>🎯 Seeking opportunities to contribute, learn and grow as a Software Engineer.<br>
 
 
 ## 🌐 Socials:
